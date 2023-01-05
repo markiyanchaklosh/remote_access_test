@@ -1,3 +1,3 @@
 # remote_access_test
 
-https://play.google.com/
+http://192.168.1.3:8080/
